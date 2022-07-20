@@ -1,7 +1,7 @@
 {
   "name": "zwkang-prettier-config",
   "description": "My personal Prettier config",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "publishConfig": {
     "access": "public"
   },
