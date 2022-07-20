@@ -1,0 +1,17 @@
+{
+  "name": "zwkang-prettier-config",
+  "description": "My personal Prettier config",
+  "version": "0.1.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "zwkang",
+    "email": "kang95630@gmail.com"
+  }
+}
