@@ -9,9 +9,15 @@
     "index.js"
   ],
   "main": "index.js",
+  "scripts": {
+    "release": "bumpp && npm publish"
+  },
   "license": "MIT",
   "author": {
     "name": "zwkang",
     "email": "kang95630@gmail.com"
+  },
+  "devDependencies": {
+    "bumpp": "^8.2.1"
   }
 }
